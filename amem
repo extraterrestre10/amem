@@ -1,0 +1,91 @@
+#EXTM3U
+
+
+<!DOCTYPE html>
+<html lang="pt-BR"
+prefix="og: http://ogp.me/ns#" >
+<head>
+<meta charset="UTF-8"> 
+
+
+	
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="Abertos", Globo SP
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_dd52cfd7d2e6cecafe68884bccf4870775b5e765/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png"Abertos", Globo rio
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_0be8dfc88c35a58e82e569b7df1c923907e94f59/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-3-100x100.png" group-title="Abertos", Globo nordeste
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_7dcc43f45e773485db940f5e27b29e0169e5e2d8.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png"Abertos", SBT
+http://edge.aovivo.club/hls/s:45.32.217.66/sbtsp_2a5ac580_aa188281d61fab01147882a36c8371881d543eb7/410p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" group-title="", SBT piaui
+http://edge.aovivo.club/hls/s:155.138.227.45/sbtpi_733b57ae_504e30d6734437d1825952dfd25907cd952a4949/1080p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="Abertos", Rede TV
+http://edge.aovivo.club/hls/s:155.138.227.45/redetv_45cbe19f_a174727542b3fa0f65999224bbcb7fc3aebb2204/270p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="Abertos", Record
+http://edge.aovivo.club/hls/s:155.138.227.45/record_3554dce5_efdd3330956a95c88f4470e0f0d7e82f0e169887/410p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="Abertos", Band
+http://edge.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_4a6dd9220b2416ffa7df71cb9076f8fc925fde61/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvcultura.png" group-title="Abertos", Cultura
+http://edge.aovivo.club/hls/s:155.138.226.22/tvculturahd_ef7de0b7_6715617223fb247209b67f1759153eb1086c8246/280p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvaparecida.png" group-title="Abertos", Tv aparecida
+http://edge.aovivo.club/hls/s:45.32.217.66/tvaparecida_be4d979e_16cc88785a662bf33e7323b94b8c72c9bc758751/1080p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cancaonova.png" group-title="Abertos", Cancão nova
+
+
+##############Filmes e series#############################
+
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/ae.png" group-title="Filmes e Series", AeMundo
+http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_207e6b93a94e473b84da62b405e965cf78c8e067/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e series", FX
+http://edge.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_e0051a06313e03dd439874a73cf00128226e0e08/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tctouch.png" group-title="Filmes e series", Telecine touch
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinetouch_74cbd2c2_f06df1b59f39c03cc859e40e7b89765f5e6db401.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremiumhd.png" group-title="Filmes de series", Telecine Premium HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_01b16800abcbf286cf57f03ef7c06c22e40c611f.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="Filmes e series" Telecine Premmium
+http://edge.aovivo.club/hls/s:155.138.227.156/telecinepremium_a929eb33_40b1114532bbdc73ad5396d036141d86b774b749/480p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="Filmes e seies", Telecine Pipoca HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_26b76cd460733c8a8d7c7a8d3225c9ba56b96cb5.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png" group-title="Filmes e series", Telecine Pipoca
+http://edge.aovivo.club/hls/s:155.138.227.156/telecinepipoca_fd937516_3b57501b450a73f8f0038f9333a0e193dcda4b3c/410p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tccult.png" group-title="Filmes e series", Telecien Cult
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinecult_8d255e1e_1b3bb847c389e628ab54491e6f5a6759edc62c90.m3u8 HD
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png" group-title="Filmes e Séries", Telecineaction
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_a5162f2ed863aab64d5e4c230ba8c3b2b16448f2.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcaction.png" group-title="Canais de filmes ", Telecine action
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_aebd6b11e1d13695aa09a514e2b23e22130f1a97.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title="Canais de filmes ", HBO Signature
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_22d25251d0690443dded24019efaae8aa333bdb3.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hboplus-1.png" group-title="", HBO plus
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_c5ea1fbf0390d7a2118b0dbdefff432cd0f42d5e.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hboplus-1.png" group-title="Filmes e Séries", HBO plus HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_9a801485170e8ea0ad681d3287358b3fe38576af.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png" group-title="", HBO2 HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_724134d5116696f5b2a45b6e527990c0768ce15a.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title="Filmes e Séries", HBO HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_875afcfcad6f6eb3fbab194b32f57d3ed533e49f.m3u8
+
+#EXTINF:-0 tvg-logo="" group-title="Abertos", 
+
+
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title="Canais de filmes ", HBO Signature
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_22d25251d0690443dded24019efaae8aa333bdb3.m3u8
+
+#EXTINF:-0 tvg-logo="" group-title="",
+
+#EXTINF:-0 tvg-logo="" group-title="",
+
+#EXTINF:-0 tvg-logo="" group-title="",
+
+#EXTINF:-0 tvg-logo="" group-title="",
+
+#EXTINF:-0 tvg-logo="" group-title="",
+
+#EXTINF:-0 tvg-logo="" group-title="",
+
+#EXTINF:-0 tvg-logo="" group-title="",
+
+#EXTINF:-0 tvg-logo="" group-title="",
+
+
+#EXTINF:-0 tvg-logo="" group-title="",
